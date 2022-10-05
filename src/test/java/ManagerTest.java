@@ -47,6 +47,7 @@ public class ManagerTest {
         String actual = Arrays.toString(manager.findAll());
         Assertions.assertEquals(expected, actual);
     }
+    //utryterytetretrrtd
 
     @Test
     public void findAllWithoutFilms() {
